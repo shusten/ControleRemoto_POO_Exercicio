@@ -21,5 +21,4 @@ public interface Controlador {
 
     public abstract void pause();
 
-
 }
